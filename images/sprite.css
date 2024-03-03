@@ -1,0 +1,46 @@
+.icon {
+  display: inline-block;
+  background-repeat: no-repeat;
+  background-image: url(sprite.svg);
+}
+.icon-antenna-1 {
+  width: 64px;
+  height: 64px;
+  background-position: 0 0;
+}
+.icon-astronaut-1 {
+  width: 64px;
+  height: 64px;
+  background-position: -64px 0;
+}
+.icon-clock-1 {
+  width: 64px;
+  height: 64px;
+  background-position: -128px 0;
+}
+.icon-diagram-1 {
+  width: 64px;
+  height: 64px;
+  background-position: -192px 0;
+}
+.icon-facebook-1 {
+  width: 64px;
+  height: 64px;
+  background-position: -256px 0;
+}
+.icon-instagram-2 {
+  width: 64px;
+  height: 64px;
+  background-position: -320px 0;
+}
+.icon-linkedin-1 {
+  width: 64px;
+  height: 64px;
+  background-position: -384px 0;
+}
+.icon-twitter-1 {
+  width: 64px;
+  height: 64px;
+  background-position: -448px 0;
+}
+
